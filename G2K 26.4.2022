@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T09:46:51.274Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="e8r8AK2oy3lrDQ6RFgbU" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-26T11:31:56.860Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="tpYtiRrNndKBr_uWtvL5" version="17.4.6" type="github">
   <diagram id="D7NNG4hudrajMDJOguB5" name="Page-1">
     <mxGraphModel dx="946" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,11 +19,11 @@
         <mxCell id="v8JzhEIJg_YiWPBFYK0X-4" value="KUBERNETES&lt;br&gt;&lt;ul style=&quot;font-size: 12px&quot;&gt;&lt;li&gt;system for running and coordinating containerised applications across a cluster of machines&lt;/li&gt;&lt;li&gt;completely manage the life-cycle of containerised application and services&amp;nbsp;&lt;/li&gt;&lt;li&gt;predictability, scalability, high availability&lt;/li&gt;&lt;li&gt;Kubernetes brings physical and virtual machines into a cluster using a shared network for communication&lt;/li&gt;&lt;li&gt;this cluster is a physical platform where components, workloads and capabilities are configured&lt;/li&gt;&lt;li&gt;all machines in cluster have dedicated role, one machine is master and others are nodes&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=24;align=left;" vertex="1" parent="1">
           <mxGeometry x="390" y="400" width="300" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="v8JzhEIJg_YiWPBFYK0X-5" value="MASTER&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;align=left;" vertex="1" parent="1">
-          <mxGeometry x="390" y="760" width="140" height="140" as="geometry" />
+        <mxCell id="v8JzhEIJg_YiWPBFYK0X-5" value="MASTER&lt;br&gt;&lt;ul&gt;&lt;li&gt;gateway and brain for the cluster by exposing an API for users and clients, health checking other servers, deciding how to schedule work and orchestrating communication between other components&lt;/li&gt;&lt;li&gt;the master server acts as the primary point of contact with the cluster and is responsible for most of the centralised logic Kubernetes provides&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;align=left;" vertex="1" parent="1">
+          <mxGeometry x="310" y="760" width="220" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="v8JzhEIJg_YiWPBFYK0X-6" value="NODES&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;align=left;" vertex="1" parent="1">
-          <mxGeometry x="550" y="760" width="140" height="140" as="geometry" />
+        <mxCell id="v8JzhEIJg_YiWPBFYK0X-6" value="NODES&lt;br&gt;&lt;ul&gt;&lt;li&gt;servers responsible for accepting and running workloads using local and external resources&amp;nbsp;&lt;/li&gt;&lt;li&gt;Kubernetes runs applications and services in containers, so each node needs to be equipped with a container runtime&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;align=left;" vertex="1" parent="1">
+          <mxGeometry x="550" y="760" width="220" height="220" as="geometry" />
         </mxCell>
         <mxCell id="v8JzhEIJg_YiWPBFYK0X-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="v8JzhEIJg_YiWPBFYK0X-4" target="v8JzhEIJg_YiWPBFYK0X-6">
           <mxGeometry relative="1" as="geometry">
