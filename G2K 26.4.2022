@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T08:29:13.326Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="U4YCL_ukAOCVrHQDHrrX" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-26T08:48:34.021Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="6VOp5n4eLMLg2jgkvpfB" version="17.4.6" type="github">
   <diagram id="D7NNG4hudrajMDJOguB5" name="Page-1">
     <mxGraphModel dx="946" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,8 +7,8 @@
         <mxCell id="v8JzhEIJg_YiWPBFYK0X-1" value="&lt;font style=&quot;font-size: 24px&quot;&gt;KAFKA&amp;nbsp;&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;event streaming platform&lt;/li&gt;&lt;li&gt;publish (write) and subscribe (read) streams of events&lt;/li&gt;&lt;li&gt;store streams durably and reliably&amp;nbsp;&lt;/li&gt;&lt;li&gt;process streams of events as they occur or retrospectively&amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;li&gt;a distributed system consisting of servers and clients communicating via TCP network protocol&lt;/li&gt;&lt;li&gt;event key, event value, event timestamp&lt;/li&gt;&lt;li&gt;producers are clients that publish (write) events&lt;/li&gt;&lt;li&gt;consumers are clients that subscribe (read and process) to events&lt;/li&gt;&lt;li&gt;events are organized and durably stored in topics&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
           <mxGeometry x="50" y="70" width="300" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="v8JzhEIJg_YiWPBFYK0X-2" value="REDIS" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="510" y="80" width="80" height="80" as="geometry" />
+        <mxCell id="v8JzhEIJg_YiWPBFYK0X-2" value="&lt;font&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;REDIS&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;ul style=&quot;font-size: 12px&quot;&gt;&lt;li&gt;remote dictionary serve&lt;/li&gt;&lt;li&gt;open source NOSQL database&lt;/li&gt;&lt;li&gt;fast, in-memory key-value datastore, cache, message broker, queue&lt;/li&gt;&lt;li&gt;complete in-memory databases keep data in RAM (very fast but dangerous as data could be lost if machine is down)&lt;/li&gt;&lt;li&gt;Redis: combine in-memory database with persistence to disc (as MySQL, Postgres)&lt;/li&gt;&lt;li&gt;Keep everything in memory but persist each operation in transaction log. Read / update memory but also write to disc when update happens&lt;/li&gt;&lt;/ul&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
+          <mxGeometry x="390" y="70" width="300" height="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
