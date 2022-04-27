@@ -1,1 +1,91 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T12:51:09.897Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" version="17.4.6" etag="m788UmrAtbuycgiG4jKG" type="github"><diagram id="DDfvWKeXth7_c4cddf9J">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-27T08:49:53.008Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="XkofE70kLVN-doKmHQHm" version="17.4.6" type="github">
+  <diagram id="DDfvWKeXth7_c4cddf9J" name="Page-1">
+    <mxGraphModel dx="946" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lbWbq1KMMw_VLQw4x0Fm-2" value="&lt;span&gt;Primary interfaces provided by Java Collections Framework&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;Collection interface&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;List interface&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Set interface&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Queue interface&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Map interface&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="30" y="20" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="lbWbq1KMMw_VLQw4x0Fm-3" value="&lt;b&gt;Explain Cloneable and Serialisable interfaces&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="270" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lbWbq1KMMw_VLQw4x0Fm-4" value="Advantages of Generic Collection" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="270" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lbWbq1KMMw_VLQw4x0Fm-5" value="&lt;b&gt;Benefit of using properties file&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="414" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lbWbq1KMMw_VLQw4x0Fm-6" value="&lt;b&gt;What is the need for overriding equals() method in Java&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="414" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lbWbq1KMMw_VLQw4x0Fm-7" value="&lt;b&gt;How the Collection objects are sorted in Java&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="560" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lbWbq1KMMw_VLQw4x0Fm-8" value="&lt;b&gt;What is List, ArrayList LinkedList&lt;/b&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="560" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lbWbq1KMMw_VLQw4x0Fm-9" value="&lt;b&gt;What is difference between ArrayList and LinkedList&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="30" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lbWbq1KMMw_VLQw4x0Fm-10" value="&lt;b&gt;What is Set and list / explain down its various implementations&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="170" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lbWbq1KMMw_VLQw4x0Fm-11" value="Can you add a null element into a TreeSet or HashSet" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="310" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lbWbq1KMMw_VLQw4x0Fm-12" value="&lt;b&gt;What is Map interface and why Map does not extend the Collection interface&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="445" y="170" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lbWbq1KMMw_VLQw4x0Fm-13" value="What is ConcurrentHashMap in Java" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="590" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lbWbq1KMMw_VLQw4x0Fm-14" value="Can you use any class as Map key" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="30" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lbWbq1KMMw_VLQw4x0Fm-15" value="&lt;b&gt;Differentiate between Collection and Collections&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="170" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lbWbq1KMMw_VLQw4x0Fm-16" value="Differentiate between an Array and ArrayList" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="310" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lbWbq1KMMw_VLQw4x0Fm-17" value="Differentiate between Iterable and Iterator" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="450" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lbWbq1KMMw_VLQw4x0Fm-18" value="&lt;b&gt;Differentiate between ArrayList and LinkedList&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="590" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lbWbq1KMMw_VLQw4x0Fm-19" value="&lt;b&gt;Differentiate between Comparable and Comparator&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="30" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lbWbq1KMMw_VLQw4x0Fm-20" value="&lt;b&gt;Differentiate between List and Set&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="170" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lbWbq1KMMw_VLQw4x0Fm-21" value="&lt;b&gt;Differentiate between Set and Map&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="310" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lbWbq1KMMw_VLQw4x0Fm-22" value="Differentiate between List and Map" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="450" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lbWbq1KMMw_VLQw4x0Fm-23" value="&lt;b&gt;Differentiate between Queue and Stack&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="590" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lbWbq1KMMw_VLQw4x0Fm-24" value="&lt;b&gt;Differentiate between the Single Linked List and Double Linked List&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="30" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lbWbq1KMMw_VLQw4x0Fm-25" value="Differentiate between HashMap and HashTable" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="170" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lbWbq1KMMw_VLQw4x0Fm-26" value="&lt;b&gt;Differentiate between HashSet and HashMap&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="310" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lbWbq1KMMw_VLQw4x0Fm-27" value="&lt;b&gt;Differentiate between HashSet and TreeSet&amp;nbsp;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="450" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lbWbq1KMMw_VLQw4x0Fm-29" value="&lt;b&gt;Differentiate between HashMap and TreeMap&lt;/b&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="590" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
