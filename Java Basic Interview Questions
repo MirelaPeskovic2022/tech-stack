@@ -1,1 +1,124 @@
-<mxfile host="app.diagrams.net" modified="2022-04-27T08:54:27.374Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" version="17.4.6" etag="ueG2go4fQV0qjooa6apb" type="github"><diagram id="f2BsJU2EWQ3zgDdysAke">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-28T06:51:53.285Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="NPEHvxmXY0uOrNlHwWW0" version="17.4.6" type="github">
+  <diagram id="f2BsJU2EWQ3zgDdysAke" name="Page-1">
+    <mxGraphModel dx="946" dy="1683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="g7xsGSee4pbVIX8pMVdD-1" value="What is a ClassLoader?" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g7xsGSee4pbVIX8pMVdD-2" value="What are the Memory Allocations available in Java" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="160" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g7xsGSee4pbVIX8pMVdD-3" value="&lt;b&gt;What are the differences between Heap and Stack Memory in Java&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="310" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g7xsGSee4pbVIX8pMVdD-4" value="Will the program run if we write&lt;i&gt; static public void main&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="460" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g7xsGSee4pbVIX8pMVdD-5" value="&lt;b&gt;What is aggregation&amp;nbsp;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="20" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g7xsGSee4pbVIX8pMVdD-6" value="&lt;b&gt;What is association&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="160" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g7xsGSee4pbVIX8pMVdD-7" value="&lt;b&gt;Define Copy Constructor in Java&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="310" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g7xsGSee4pbVIX8pMVdD-8" value="What is a Marker Interface&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="460" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g7xsGSee4pbVIX8pMVdD-9" value="&lt;b&gt;What is Object Cloning&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="20" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g7xsGSee4pbVIX8pMVdD-10" value="&lt;b&gt;Why is Java not completely object-oriented&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="160" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g7xsGSee4pbVIX8pMVdD-11" value="What is an object-oriented paradigm" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="310" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g7xsGSee4pbVIX8pMVdD-12" value="&lt;b&gt;Define Wrapper Classes in Java&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="460" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g7xsGSee4pbVIX8pMVdD-13" value="&lt;b&gt;Define Singleton Classes in Java&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="600" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g7xsGSee4pbVIX8pMVdD-14" value="Can you implement pointers in a Java program" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="600" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g7xsGSee4pbVIX8pMVdD-15" value="Differentiate between instance and local variables" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="600" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g7xsGSee4pbVIX8pMVdD-16" value="What is Java String Pool" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="20" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g7xsGSee4pbVIX8pMVdD-17" value="&lt;b&gt;What is an Exception&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="160" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g7xsGSee4pbVIX8pMVdD-18" value="&lt;b&gt;Explain final keyword in Java&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="310" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g7xsGSee4pbVIX8pMVdD-19" value="What happens when the main() isn&#39;t declared as static" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="460" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g7xsGSee4pbVIX8pMVdD-20" value="Explain JDK, JRE, JVM, JIT compailer" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="20" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g7xsGSee4pbVIX8pMVdD-21" value="&lt;b&gt;Explain access specifiers&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="160" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g7xsGSee4pbVIX8pMVdD-22" value="&lt;b&gt;How many types of constructors are used in Java and explain them&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="310" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g7xsGSee4pbVIX8pMVdD-23" value="&lt;b&gt;Can a constructor return a value&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="460" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g7xsGSee4pbVIX8pMVdD-24" value="Explain &quot;this&quot; and &quot;super&quot; reference keyword in Java" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="610" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g7xsGSee4pbVIX8pMVdD-25" value="&lt;b&gt;Explain method overloading in Java&amp;nbsp;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="20" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g7xsGSee4pbVIX8pMVdD-26" value="&lt;b&gt;Can we overload a static method&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="160" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g7xsGSee4pbVIX8pMVdD-27" value="&lt;b&gt;Why is the delete function faster in the linked list than in array&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="310" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g7xsGSee4pbVIX8pMVdD-28" value="Give a briefing on the life cycle of a thread" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="460" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g7xsGSee4pbVIX8pMVdD-29" value="Explain the difference between &amp;gt;&amp;gt; and &amp;gt;&amp;gt;&amp;gt; operators" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="610" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g7xsGSee4pbVIX8pMVdD-30" value="&lt;b&gt;Why are generics used in Java Programming&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="20" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g7xsGSee4pbVIX8pMVdD-31" value="&lt;b&gt;What is the Daemon Thread&amp;nbsp;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="160" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g7xsGSee4pbVIX8pMVdD-32" value="&lt;b&gt;Explain the term enumeration in Java&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="310" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g7xsGSee4pbVIX8pMVdD-33" value="Why is Java dynamic" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="460" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g7xsGSee4pbVIX8pMVdD-34" value="Can you run a code before executing the main method" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="610" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g7xsGSee4pbVIX8pMVdD-35" value="&lt;b&gt;How many times is the finalize method called?&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="20" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g7xsGSee4pbVIX8pMVdD-36" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Intermediate&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="350" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g7xsGSee4pbVIX8pMVdD-37" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Experienced&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="730" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g7xsGSee4pbVIX8pMVdD-38" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Basic&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-20" width="150" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
